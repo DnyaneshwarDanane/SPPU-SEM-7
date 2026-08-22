@@ -1,4 +1,4 @@
-SPPU BE Semester 7 Study Material
+# SPPU BE Semester 7 Study Material
 
 Study material and resources for SPPU BE Computer Engineering – Semester 7.
 
