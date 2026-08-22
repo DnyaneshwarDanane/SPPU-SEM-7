@@ -5,7 +5,7 @@ Study material and resources for SPPU BE Computer Engineering – Semester 7.
 🎯 A collection of notes, important questions, previous year papers, and exam-oriented resources for Semester 7.
 
 📖 Subjects
-Subject	Full Name
+
 🧮 DAA	Design and Analysis of Algorithms
 🤖 ML	Machine Learning
 ⛓️ BT	Blockchain Technology
